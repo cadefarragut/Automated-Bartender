@@ -48,9 +48,9 @@ With Enginuity Global’s provided budget, our team **designed, ordered, and bui
 ## 📜 The Journey
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7e917e83-d479-4e95-b665-a7fe443234b5" alt="IMG_2116" width="400"/>
   <img src="https://github.com/user-attachments/assets/88fba333-ef02-465c-b7f6-7b977cdd54bf" alt="IMG_1804" width="400"/>
   <img src="https://github.com/user-attachments/assets/bada7f39-ef53-4894-ae7f-2d1482af3866" alt="IMG_1843" width="400"/>
+  <img src="https://github.com/user-attachments/assets/7e917e83-d479-4e95-b665-a7fe443234b5" alt="IMG_2116" width="400"/>
   <img src="https://github.com/user-attachments/assets/39023a68-c7b2-4a06-97b2-08178624e72d" alt="IMG_1893" width="400"/>
   <img src="https://github.com/user-attachments/assets/113852e5-f8a8-4116-b303-ae49d6c5e9c5" alt="IMG_1997" width="400"/>
   <img src="https://github.com/user-attachments/assets/15709821-8ee7-414b-ae46-f6f60670086e" alt="IMG_2003" width="400"/>
