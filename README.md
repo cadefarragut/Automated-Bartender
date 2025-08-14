@@ -32,7 +32,7 @@ With Enginuity Global’s provided budget, our team **designed, ordered, and bui
 ## 📸 Final Product
 
 
-<img src="https://github.com/user-attachments/assets/80c0be9e-7310-4bb8-81ea-d3d0baaac29e" align="center"/>
+https://github.com/user-attachments/assets/80c0be9e-7310-4bb8-81ea-d3d0baaac29e
 
 
 ---
