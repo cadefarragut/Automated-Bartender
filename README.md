@@ -29,5 +29,9 @@ With Enginuity Global’s provided budget, our team **designed, ordered, and bui
 
 ---
 
-## 📸 System Diagram *(placeholder)*
-> _Add an image here of your system architecture, HMI screen, or final build for maximum impact._
+## 📸 System Diagram *(placeholder)* 
+
+
+
+https://github.com/user-attachments/assets/b83945fa-f164-4120-84a7-99e169a41454
+
