@@ -29,7 +29,7 @@ With Enginuity Global’s provided budget, our team **designed, ordered, and bui
 
 ---
 
-## 📸 System Diagram *(placeholder)*
+## 📸 Final Product
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b83945fa-f164-4120-84a7-99e169a41454" alt="System Diagram" width="500"/>
