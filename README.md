@@ -17,6 +17,7 @@ With Enginuity Global’s provided budget, our team **designed, ordered, and bui
 - **Electrical System Design** *(with EE teammate)*  
   - Designed wiring and power distribution systems.
   - Integrated **24V** and **12V** power supplies.
+  - Integrated 12V Peristaltic Pumps and Solenoid Valves
   - Installed and configured **24V fuse terminals** for circuit protection.
 
 ---
